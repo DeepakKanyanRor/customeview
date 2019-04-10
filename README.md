@@ -7,6 +7,10 @@ add dependency in app level build.gradle
  implementation 'com.github.deepakkanyanror:customview:1.0'
 }
  
+ <span>
+<b> add in project level buld.gradle</b>
  
- add in project level buld.gradle
- maven { url ‘https://jitpack.io’ }
+
+ maven { url 'https://jitpack.io' }
+ 
+ </span>
